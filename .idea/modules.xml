@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula 03/Aula 03.iml" filepath="$PROJECT_DIR$/Aula 03/Aula 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fundamentos POO.iml" filepath="$PROJECT_DIR$/.idea/Fundamentos POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercícios Treinamento/ex01/ex01.iml" filepath="$PROJECT_DIR$/Exercícios Treinamento/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercícios Treinamento/ex02/ex02.iml" filepath="$PROJECT_DIR$/Exercícios Treinamento/ex02/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercícios Treinamento/ex03/ex03.iml" filepath="$PROJECT_DIR$/Exercícios Treinamento/ex03/ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex04/ex04.iml" filepath="$PROJECT_DIR$/Exercicios/ex04/ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex05/ex05.iml" filepath="$PROJECT_DIR$/Exercicios/ex05/ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex06/ex06.iml" filepath="$PROJECT_DIR$/Exercicios/ex06/ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex07/ex07.iml" filepath="$PROJECT_DIR$/Exercicios/ex07/ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex08/ex08.iml" filepath="$PROJECT_DIR$/Exercicios/ex08/ex08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex09/ex09.iml" filepath="$PROJECT_DIR$/Exercicios/ex09/ex09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex10/ex10.iml" filepath="$PROJECT_DIR$/Exercicios/ex10/ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex01/ex2.iml" filepath="$PROJECT_DIR$/Exercicios/ex01/ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex02/ex3.iml" filepath="$PROJECT_DIR$/Exercicios/ex02/ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ex03/ex4.iml" filepath="$PROJECT_DIR$/Exercicios/ex03/ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercícios Treinamento/ex04/ex5.iml" filepath="$PROJECT_DIR$/Exercícios Treinamento/ex04/ex5.iml" />
+    </modules>
+  </component>
+</project>
