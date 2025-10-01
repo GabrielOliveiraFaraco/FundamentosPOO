@@ -12,5 +12,7 @@ public class Main {
         double resultado = numero1 * numero2;
 
         System.out.println("A multiplicação é: " + resultado);
+
+        sc.close();
     }
 }

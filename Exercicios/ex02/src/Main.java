@@ -30,7 +30,5 @@ public class Main {
         soma.print();
 
         sc.close();
-
-
     }
 }

@@ -9,5 +9,7 @@ public class Main {
         double area = Math.PI * Math.pow(raio, 2);
 
         System.out.println("O raio digitado é: " + raio + ", e a área do círculo é: " + area + ".");
+
+        sc.close();
     }
 }

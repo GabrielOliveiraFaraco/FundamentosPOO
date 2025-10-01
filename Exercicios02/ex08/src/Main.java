@@ -64,6 +64,9 @@ public class Main {
                     default:
                         System.out.println("Entrada inválida.");
                 }
+
+                input.close();
+
             } catch (InputMismatchException e){
                 System.out.println("Entrada inválida.");
             }

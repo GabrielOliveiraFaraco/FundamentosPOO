@@ -12,5 +12,6 @@ public class Main {
 
         System.out.println("Seu nome é " + nome + " " + sobrenome + "!");
 
+        sc.close();
     }
 }

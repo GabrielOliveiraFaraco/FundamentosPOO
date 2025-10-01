@@ -44,6 +44,7 @@ public class Main {
                         System.out.println("Digite um valor válido!");
                         break;
                 }
+
             } catch (InputMismatchException e) {
                 System.out.println("\nDigite apenas números inteiros de 1 a 4!");
             }

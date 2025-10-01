@@ -11,5 +11,7 @@ public class Main {
         char caractere = nome.charAt(0);
 
         System.out.println("A primeira letra do seu nome é " + caractere);
+
+        sc.close();
     }
 }

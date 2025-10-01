@@ -13,5 +13,7 @@ public class Main {
         BigDecimal resultado = numero1.add(numero2);
 
         System.out.println("A soma dos números é: " + resultado);
+
+        sc.close();
     }
 }

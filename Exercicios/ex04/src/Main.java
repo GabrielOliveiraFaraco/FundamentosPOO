@@ -16,5 +16,7 @@ public class Main {
         } else {
             System.out.println("A divisão não pode ser feita se um dos números for 0 ou menor.");
         }
+
+        sc.close();
     }
 }

@@ -14,5 +14,7 @@ public class Main {
             boolean maiorDeIdade = false;
             System.out.println("Você é menor de idade!");
         }
+
+        sc.close();
     }
 }
